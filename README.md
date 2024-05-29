@@ -36,7 +36,7 @@ Explore the folders and delve into the programs at your own pace, allowing each 
 
 ## License
 
-This project is licensed under the MIT License. For further details, refer to the [LICENSE](LICENSE) file.
+This project is licensed free.
 
 ## Acknowledgments
 
@@ -46,5 +46,3 @@ Thank you for choosing **CppEssentials** as your companion in mastering the esse
 
 *Crafted with precision and passion by [MalikShujaatAli](https://github.com/MalikShujaatAli)*
 
-
-This README.md maintains a formal tone while ensuring readability and engagement. It provides a clear overview of the repository's contents and invites readers to embark on a journey of discovery and learning.

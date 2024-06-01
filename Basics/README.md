@@ -35,5 +35,5 @@ Thank you for choosing **CppEssentials** as your guide to mastering the basics o
 
 ---
 
-*Crafted with passion by [MalikShujaatALi]*
+*Crafted with precision and passion by [MalikShujaatAli](https://github.com/MalikShujaatAli)*
 

@@ -1,4 +1,3 @@
-
 # CppEssentials
 
 Welcome to **CppEssentials**! This repository serves as your comprehensive guide to mastering the foundational concepts of C++ programming. Whether you're embarking on your coding journey or seeking to strengthen your programming fundamentals, you'll find a curated collection of meticulously crafted programs here.
@@ -12,9 +11,14 @@ Welcome to **CppEssentials**! This repository serves as your comprehensive guide
 - **Basics**: Dive into the core principles of C++, from variables and data types to control structures.
 - **Enumeration**: Explore the versatile world of enumeration types and their applications.
 - **File Handling**: Master the intricacies of file input/output operations, a crucial skill for any programmer.
+- **Functions**: Learn about functions and their role in modularizing code for better organization and reusability.
+- **Loops**: Understand different loop constructs for iterative control flow in your programs.
+- **Pointers**: Grasp the concepts of pointers, dynamic memory allocation, and their applications.
 - **Searching**: Delve into basic searching algorithms to efficiently locate elements within data structures.
 - **Sorting**: Harness the power of essential sorting algorithms to organize data with precision and efficiency.
 - **Structures**: Discover the art of user-defined data structures and their pivotal role in software development.
+- **Arrays**: Explore the versatility of arrays and their usage in storing and manipulating data.
+- **Strings**: Understand the fundamentals of string manipulation and processing in C++.
 
 ## Future Expansion
 
@@ -45,4 +49,3 @@ Thank you for choosing **CppEssentials** as your companion in mastering the esse
 ---
 
 *Crafted with precision and passion by [MalikShujaatAli](https://github.com/MalikShujaatAli)*
-

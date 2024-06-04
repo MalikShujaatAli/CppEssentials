@@ -29,7 +29,7 @@ Welcome to **CppEssentials**! This repository serves as your comprehensive guide
 To embark on your journey through **CppEssentials**, simply clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/CppEssentials.git
+git clone https://github.com/MalikShujaatAli/CppEssentials.git
 ```
 
 Explore the folders and delve into the programs at your own pace, allowing each concept to unfold before you in its entirety.

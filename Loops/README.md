@@ -20,7 +20,7 @@ Explore a range of programs that cover key looping concepts such as:
 To start exploring the "Loops" folder, dive into any program that catches your eye. Each program is designed to provide clear examples and explanations, enabling you to learn at your own pace. Here are a few steps to get you started:
 1. **Clone the Repository**: Download the repository to your local machine.
    ```sh
-   git clone https://github.com/yourusername/CppEssentials.git
+   git clone https://github.com/MalikShujaatAli/CppEssentials.git
    ```
 2. **Navigate to the Loops Folder**: Open the `loops` folder to access the programs.
    ```sh
@@ -46,4 +46,3 @@ Thank you for choosing **CppEssentials** as your resource for mastering loops in
 
 ---
 
-*Crafted with precision and passion by [MalikShujaat]((https://github.com/MalikShujaatAli))*

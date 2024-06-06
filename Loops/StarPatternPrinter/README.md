@@ -1,5 +1,3 @@
-Sure! Below is an extensive README file content for the "StarPatternPrinter" project:
-
 ---
 
 # StarPatternPrinter

@@ -1,9 +1,3 @@
-**CharacterIndexer**
-
-Here's an extensive README file for the "CharacterIndexer" project:
-
----
-
 # CharacterIndexer
 
 ## Overview

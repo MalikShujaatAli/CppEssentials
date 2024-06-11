@@ -27,11 +27,11 @@ The program consists of three main parts:
 ### Installation
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/MalikShujaatAli/Array_Input_Output.git
+    git clone https://github.com/MalikShujaatAli/1D_Array_Input_Output.git
     ```
 2. Navigate to the project directory.
     ```sh
-    cd Array_Input_Output
+    cd 1D_Array_Input_Output
     ```
 
 ### Usage

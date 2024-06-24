@@ -1,4 +1,4 @@
-# String Operations in C++
+# Strings
 
 This folder is dedicated to programs that demonstrate various string operations in C++. It includes a wide range of examples that showcase different techniques for handling strings, both as character arrays and using the C++ string class. These programs cover fundamental concepts and common operations involving strings, such as searching, replacing, counting, and manipulating string data.
 

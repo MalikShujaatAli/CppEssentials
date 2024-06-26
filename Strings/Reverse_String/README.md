@@ -1,5 +1,3 @@
-# README
-
 ## Overview
 
 This program is a simple C++ application that reads a series of characters input by the user until a null character (`\0`) is encountered, then outputs the characters in reverse order.

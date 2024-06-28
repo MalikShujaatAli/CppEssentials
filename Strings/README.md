@@ -21,4 +21,4 @@ g++ -o program_name program_name.cpp
 Replace `program_name` with the actual name of the program file you wish to compile and run.
 
 ## Contributions
-Contributions are welcome! If you have additional examples or improvements, please feel free to submit a pull request. Ensure that your code follows the existing style and includes comments where necessary to explain key concepts.
+Contributions are welcome! If you have additional examples or improvements, please feel free to submit a pull request. Ensure that your code follows the existing style and includes comments where necessary to explain key concepts..

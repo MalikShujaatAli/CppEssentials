@@ -40,7 +40,7 @@ Explore the folders and delve into the programs at your own pace, allowing each 
 
 ## License
 
-This project is licensed free..
+This project is licensed free.
 
 ## Acknowledgments
 

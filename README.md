@@ -44,7 +44,7 @@ This project is licensed free.
 
 ## Acknowledgments
 
-Thank you for choosing **CppEssentials** as your companion in mastering the essentials of C++ programming. May your exploration be fruitful and your learning journey rewarding.........
+Thank you for choosing **CppEssentials** as your companion in mastering the essentials of C++ programming. May your exploration be fruitful and your learning journey rewarding...........
 
 ---
 

@@ -1,7 +1,7 @@
 # CppEssentials
 
 Welcome to **CppEssentials**! This repository serves as your comprehensive guide to mastering the foundational concepts of C++ programming. Whether you're embarking on your coding journey or seeking to strengthen your programming fundamentals, you'll find a curated collection of meticulously crafted programs here.
-...........
+............
 ## Overview
 
 **CppEssentials** is thoughtfully organized into distinct folders, each dedicated to a vital aspect of C++ programming. Within these folders, you'll uncover a treasure trove of programs designed to elucidate and reinforce your understanding of key concepts.
